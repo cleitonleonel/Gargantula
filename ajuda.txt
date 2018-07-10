@@ -1,0 +1,19 @@
+Bem-vindo(a) à Gargantula!
+Este jogo é um RPG de Texto, assim como os da década de 70 e 80.
+O principal objetivo é o aprendizado de algumas funções do python,
+mas nada impede que se divirta na aventura!
+Foi escrito todo em python3 e usa algumas bibliotecas que não vem
+como padrão no python. 
+Além disso, criei bibliotecas próprias para deixar o código mais limpo
+e organizado.
+Espero que gostem e aprendam algo!
+Todas dependências estarão no arquivo README. Baixe-as antes de 
+executar o jogo.
+
+JOGO:
+Para jogar basta entrar com uma das opções disponíveis na tela e
+um comando será executado.
+Os comandos não são case-sensitive e possuem diversos aliases para
+evitar o travamento constante do jogo.
+O sistema de loading é falso, podendo ser desativado no arquivo opções.txt
+Q é sempre uma alternativa para as opções de saída.
